@@ -10,8 +10,19 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+~~~
+x = ('a', 'n', 5, 8, 'python')
+
+print('n' in x)
+print(8 in x)
+~~~
+
 
 ## Output
+~~~
+True
+True
+~~~
 
 ## Result
+Thus, the Python program to check the existence of elements in a tuple was executed successfully.
